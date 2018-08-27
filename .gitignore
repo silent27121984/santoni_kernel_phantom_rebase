@@ -51,6 +51,8 @@ Module.symvers
 /zImage
 /System.map
 /Module.markers
+/net/wireguard/*
+/out/*
 
 #
 # Debian directory (make deb-pkg)
